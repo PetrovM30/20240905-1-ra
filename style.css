@@ -1,0 +1,13 @@
+body {
+    background: blueviolet;
+    text-align: center;
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+}
+div {
+    background-color: green;
+    margin: 5px;
+    padding: 8px;
+    border: solid 5px lawngreen;
+    box-shadow: 1px 10px 1px blue;
+}
